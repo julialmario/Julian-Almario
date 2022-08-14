@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
 [![DoctorZ GitHub stats](https://github-readme-stats.vercel.app/api?username=DoctorZ-0525)](https://github.com/anuraghazra/github-readme-stats)
 
