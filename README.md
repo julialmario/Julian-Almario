@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">!COMING SOON!<h3>
+<h3 align="center">⚙️!IN PROGRESS!🔧<h3>
 
 [![DoctorZ GitHub stats](https://github-readme-stats.vercel.app/api?username=DoctorZ-0525)](https://github.com/anuraghazra/github-readme-stats)
 
