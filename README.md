@@ -4,7 +4,7 @@
 [![DoctorZ GitHub stats](https://github-readme-stats.vercel.app/api?username=DoctorZ-0525)](https://github.com/anuraghazra/github-readme-stats)
 
 You can learn more about me 🌎:
-- [instaram](https://www.instagram.com/julian_almario0525/)
+- [instagram](https://www.instagram.com/julian_almario0525/)
 - [Youtube](https://www.youtube.com/DoctorZ_)
 - [Twitter](https://twitter.com/DocZ_0525)
 <!--
