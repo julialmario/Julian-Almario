@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">⚙️!IN PROGRESS!🔧<h3>
 
-[![DoctorZ GitHub stats](https://github-readme-stats.vercel.app/api?username=DoctorZ-0525)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/DoctorZ-0525">
   <img src="https://github-readme-stats.vercel.app/api?username=DoctorZ-0525" />
  </a>
+ 
 <a href="https://github.com/DoctorZ-0525">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorZ-0525&layout=compact" />
 </a>
