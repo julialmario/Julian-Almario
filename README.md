@@ -1,6 +1,7 @@
+![Banner](https://user-images.githubusercontent.com/102930875/184941638-d1b30461-4f3d-4169-8d6a-a6c2483a26eb.png)
+
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">⚙️!IN PROGRESS!🔧<h3>
-
 
 <a href="https://github.com/DoctorZ-0525">
   <img src="https://github-readme-stats.vercel.app/api?username=DoctorZ-0525" />
