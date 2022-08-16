@@ -2,6 +2,12 @@
 <h3 align="center">⚙️!IN PROGRESS!🔧<h3>
 
 [![DoctorZ GitHub stats](https://github-readme-stats.vercel.app/api?username=DoctorZ-0525)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/DoctorZ-0525">
+  <img src="https://github-readme-stats.vercel.app/api?username=DoctorZ-0525" />
+ </a>
+<a href="https://github.com/DoctorZ-0525">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorZ-0525&layout=compact" />
+</a>
 
 You can learn more about me 🌎:
 - [instagram](https://www.instagram.com/julian_almario0525/)
@@ -9,15 +15,3 @@ You can learn more about me 🌎:
 - [Twitter](https://twitter.com/DocZ_0525)
 <!--
 **DoctorZ-0525/DoctorZ-0525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
