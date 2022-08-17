@@ -7,13 +7,23 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DoctorZ-0525" />
  </a>
  
-<a href="https://github.com/DoctorZ-0525">
+<a align="center" href="https://github.com/DoctorZ-0525">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorZ-0525&layout=compact" />
 </a>
 
+<h1 align="center">TEST</h1>
+<h3 align="center">I`m Learning</h3>
+<p align="center">
+   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+</p>
+
+<h3 align="center">I would be interested in learning</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px"> 
+</p>
+
+
+
 You can learn more about me 🌎:
 - [instagram](https://www.instagram.com/julian_almario0525/)
-- [Youtube](https://www.youtube.com/DoctorZ_)
 - [Twitter](https://twitter.com/DocZ_0525)
-<!--
-**DoctorZ-0525/DoctorZ-0525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
