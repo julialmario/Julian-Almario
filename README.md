@@ -2,15 +2,19 @@
 
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">⚙️!IN PROGRESS!🔧<h3>
-
-<a href="https://github.com/DoctorZ-0525">
-  <img src="https://github-readme-stats.vercel.app/api?username=DoctorZ-0525" />
- </a>
+<div align ="center">
+  <a href="https://github.com/DoctorZ-0525">
+    <img src="https://github-readme-stats.vercel.app/api?username=DoctorZ-0525" />
+  </a>
+</div>
+<br>
+<br>
+<div align="center">
+  <a align="center" href="https://github.com/DoctorZ-0525">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorZ-0525&layout=compact" />
+  </a>
+</div>
  
-<a align="center" href="https://github.com/DoctorZ-0525">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorZ-0525&layout=compact" />
-</a>
-
 <h1 align="center">TEST</h1>
 <h3 align="center">I`m Learning</h3>
 <p align="center">
