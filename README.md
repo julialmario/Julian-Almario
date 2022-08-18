@@ -1,4 +1,4 @@
-![Banner](https://user-images.githubusercontent.com/102930875/184941638-d1b30461-4f3d-4169-8d6a-a6c2483a26eb.png)
+![Banner](https://user-images.githubusercontent.com/102930875/185433354-f1172ed0-800c-491e-90ed-e059bc29435e.gif)
 
 <h1 align="center">Hi this is under construction👋</h1>
 <h3 align="center">⚙️!IN PROGRESS!🔧<h3>
