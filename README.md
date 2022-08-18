@@ -4,14 +4,14 @@
 <h3 align="center">⚙️!IN PROGRESS!🔧<h3>
 <div align ="center">
   <a href="https://github.com/DoctorZ-0525">
-    <img src="https://github-readme-stats.vercel.app/api?username=DoctorZ-0525" />
+    <img src="https://github-readme-stats.vercel.app/api?username=DoctorZ-0525&show_icons=true&theme=chartreuse-dark" />
   </a>
 </div>
 <br>
 <br>
 <div align="center">
   <a align="center" href="https://github.com/DoctorZ-0525">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorZ-0525&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorZ-0525&layout=compact&theme=chartreuse-dark" />
   </a>
 </div>
  
