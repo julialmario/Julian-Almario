@@ -26,8 +26,12 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px"> 
 </p>
 
-
-
-You can learn more about me 🌎:
-- [instagram](https://www.instagram.com/julian_almario0525/)
-- [Twitter](https://twitter.com/DocZ_0525)
+<h1 align ="center">Social Media</h1>
+<div align="center">
+  <a align="center" href="https://twitter.com/DocZ_0525">
+   <img src="https://user-images.githubusercontent.com/102930875/185516393-5fea1e0c-9324-4270-8b11-57da3e902c9f.png">
+  </a>
+  <a align ="center" href="https://www.instagram.com/julian_almario0525/">
+    <img src="https://user-images.githubusercontent.com/102930875/185516396-8c5054c5-c5ce-4250-aec6-f7b154fd5d57.png"> 
+  <a/>
+</div>
