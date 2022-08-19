@@ -32,8 +32,8 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/ArduinoLogo_%C2%AE.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>
 <code><img height="40" src="https://cdn.cdnlogo.com/logos/j/69/javascript.svg"></code>
+<code><img height="40" src="https://icon-library.com/icon/nodejs-icon-13.html.html>Nodejs Icon # 56743"></code>
 </p>
 
 <h1 align ="center">Social Media</h1>
