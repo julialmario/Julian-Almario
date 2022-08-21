@@ -8,6 +8,26 @@
 <ul>
   <li>Because "Knowledge is power" and also because I like to learn all kinds of technologies, be it programming, game development, pixel art, robotics, machine learning, operating systems and data science.</li>
 </ul>
+<br>
+<h4>Programing lenguages I know...</h4>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+  </ul>
+ <h4>Languages that interest me and want to learn....</h4>
+  <ul>
+    <li>Python</li>
+    <li>Java</li>
+    <li>Javascript / Typescript</li>
+    <li>C</li>
+    <li>C++</li>
+    <li>C#</li>
+  </ul>
+ <h4>I am interested in....</h4>
+  <ul>
+    <li>Networks, AI, Full Stack development and OS</li>
+  </ul>
+  
 <h2 align ="center">👨‍💻 STATS, TOOLS AND PROGRAMMING LANGUAGES👨‍💻</h2>
 <div align ="left">
   <a href="https://github.com/DoctorZ-0525">
