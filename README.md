@@ -8,10 +8,9 @@
 <ul>
   <li>Because "Knowledge is power" and also because I like to learn all kinds of technologies, be it programming, game development, pixel art, robotics, machine learning, operating systems and data science.</li>
 </ul>
-<br>
 <h4>Programing lenguages I know...</h4>
   <ul>
-    <li>Python</li>
+    <li>Basic Python</li>
     <li>HTML</li>
     <li>CSS</li>
   </ul>
@@ -27,8 +26,16 @@
   <ul>
     <li>Networks, AI, Full Stack development, OS and Robotics.</li>
   </ul>
-  
-<h2 align ="center">👨‍💻 STATS, TOOLS AND PROGRAMMING LANGUAGES👨‍💻</h2>
+<h5 align ="center">Where can you find me..</h5>
+<div align="center">
+  <a href="https://twitter.com/DocZ_0525">
+   <img width="20" src="https://user-images.githubusercontent.com/102930875/185516393-5fea1e0c-9324-4270-8b11-57da3e902c9f.png">
+  </a>
+  <a href="https://www.instagram.com/julian_almario0525/">
+    <img width="20" src="https://user-images.githubusercontent.com/102930875/185516396-8c5054c5-c5ce-4250-aec6-f7b154fd5d57.png"> 
+  <a/>
+</div>
+<h2 align ="center">👨‍💻 GitHub stast👨‍💻</h2>
 <div align ="left">
   <a href="https://github.com/DoctorZ-0525">
     <img src="https://github-readme-stats.vercel.app/api?username=DoctorZ-0525&show_icons=true&theme=chartreuse-dark" />
@@ -38,13 +45,4 @@
    <a href="https://github.com/DoctorZ-0525">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorZ-0525&layout=compact&theme=chartreuse-dark" />
   </a>
-</div>
-<h1 align ="center">Where can you find me...</h1>
-<div align="center">
-  <a href="https://twitter.com/DocZ_0525">
-   <img src="https://user-images.githubusercontent.com/102930875/185516393-5fea1e0c-9324-4270-8b11-57da3e902c9f.png">
-  </a>
-  <a href="https://www.instagram.com/julian_almario0525/">
-    <img src="https://user-images.githubusercontent.com/102930875/185516396-8c5054c5-c5ce-4250-aec6-f7b154fd5d57.png"> 
-  <a/>
 </div>
