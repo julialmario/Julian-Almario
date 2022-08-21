@@ -11,12 +11,12 @@
 <br>
 <h4>Programing lenguages I know...</h4>
   <ul>
+    <li>Python</li>
     <li>HTML</li>
     <li>CSS</li>
   </ul>
  <h4>Languages that interest me and want to learn....</h4>
   <ul>
-    <li>Python</li>
     <li>Java</li>
     <li>Javascript / Typescript</li>
     <li>C</li>
@@ -25,7 +25,7 @@
   </ul>
  <h4>I am interested in....</h4>
   <ul>
-    <li>Networks, AI, Full Stack development and OS</li>
+    <li>Networks, AI, Full Stack development, OS and Robotics.</li>
   </ul>
   
 <h2 align ="center">👨‍💻 STATS, TOOLS AND PROGRAMMING LANGUAGES👨‍💻</h2>
@@ -39,7 +39,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorZ-0525&layout=compact&theme=chartreuse-dark" />
   </a>
 </div>
-<h1 align ="center">Social Media</h1>
+<h1 align ="center">Where can you find me...</h1>
 <div align="center">
   <a href="https://twitter.com/DocZ_0525">
    <img src="https://user-images.githubusercontent.com/102930875/185516393-5fea1e0c-9324-4270-8b11-57da3e902c9f.png">
