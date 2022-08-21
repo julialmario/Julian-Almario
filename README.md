@@ -4,9 +4,10 @@
 <p align="center">My name's Julian or as now I am nicknamed on the internet DocZ or just Doc, I'm a medical student at the Remington University Corporation in Colombia.</p>
 <p align="center">⌨️</p>
 <div align="left">
-  <h3>Because you study medicine and you're here?<h3>
-</div>
-  - Because "Knowledge is power" and also because I like to learn all kinds of technologies, be it programming, game development, pixel art, robotics, machine learning, operating systems and data science.
+<h3>Because you study medicine and you're here?</h3>
+<ul>
+  <li>Because "Knowledge is power" and also because I like to learn all kinds of technologies, be it programming, game development, pixel art, robotics, machine learning, operating systems and data science.</li>
+</ul>
 <h2 align ="center">👨‍💻 STATS, TOOLS AND PROGRAMMING LANGUAGES👨‍💻</h2>
 <div align ="left">
   <a href="https://github.com/DoctorZ-0525">
