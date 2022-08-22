@@ -8,7 +8,6 @@
 <ul>
   <li>Because "Knowledge is power" and also because I like to learn all kinds of technologies, be it programming, game development, pixel art, robotics, machine learning, operating systems and data science.</li>
 </ul>
-<img align="right" width="210" src="https://user-images.githubusercontent.com/102930875/185813614-60958132-8fba-4519-a855-04f2f02fc465.gif">
 
 <!--Profile Data-->
 
