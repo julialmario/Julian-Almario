@@ -3,6 +3,7 @@
 <h1 align="center">👋 Hi everyone 👋</h1>
 <p align="center">My name's Julian or as now I am nicknamed on the internet DocZ or just Doc, I'm a medical student at the Remington University Corporation in Colombia.</p>
 <p align="center">⌨️</p>
+<hr>
 <div align="left">
 <h3>Because you study medicine and you're here?</h3>
 <ul>
