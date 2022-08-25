@@ -1,4 +1,4 @@
-![Banner](https://user-images.githubusercontent.com/102930875/185433354-f1172ed0-800c-491e-90ed-e059bc29435e.gif)
+![Banner](https://user-images.githubusercontent.com/102930875/186553775-b3ada263-d406-49b9-9cfb-8b015ab9ace2.gif)
 
 <h1 align="center">👋 Hi everyone 👋</h1>
 <p align="center">My name's Julian or as now I am nicknamed on the internet DocZ or just Doc, I'm a medical student at the Remington University Corporation in Colombia.</p>
