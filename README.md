@@ -36,7 +36,7 @@
   </ul>
 <h3>Curse and Certificate</h3>
 <ul>
-  <li>FreeCodeCamp Responsive web Desing: <a href="https://www.freecodecamp.org/certification/DoctorZ/responsive-web-design">Certficate</a></li>
+  <li>FreeCodeCamp Responsive web Desing: <a href="https://www.freecodecamp.org/certification/DoctorZ/responsive-web-design">Here</a></li>
 </ul>
 <h5 align ="center">Where can you find me..</h5>
 <div align="center">
