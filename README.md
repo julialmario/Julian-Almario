@@ -20,7 +20,6 @@
   </ul>
  <h4>Languages that interest me and want to learn....</h4>
   <ul>
-    <li>Java</li>
     <li>Javascript / Typescript</li>
     <li>C</li>
     <li>C++</li>
@@ -28,7 +27,7 @@
   </ul>
  <h4>I am interested in learning...</h4>
   <ul>
-    <li>Networks, AI, Full Stack development, OS and Robotics.</li>
+    <li>Networks, AI, Full Stack development and Robotics.</li>
   </ul>
   <h4>I like....</h4>
   <ul>
