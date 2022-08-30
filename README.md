@@ -50,7 +50,7 @@
 
 <!--Stats-->
 
-<h2 align ="center">👨‍💻 GitHub stast👨‍💻</h2>
+<h3 align ="center">👨‍💻 GitHub stast👨‍💻</h3>
 <div align="center">
   <a href="https://github.com/DoctorZ-0525">
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=DoctorZ-0525&show_icons=true&theme=chartreuse-dark" />
