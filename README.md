@@ -14,13 +14,12 @@
 
 <h4>Programing lenguages I know...</h4>
   <ul>
-    <li>Basic Python</li>
+    <li>Python</li>
     <li>HTML</li>
     <li>CSS</li>
   </ul>
  <h4>Languages that interest me and want to learn....</h4>
   <ul>
-    <li>Javascript / Typescript</li>
     <li>C</li>
     <li>C++</li>
     <li>C#</li>
