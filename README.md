@@ -12,6 +12,8 @@
 
 <!--Profile Data-->
 
+<h4>Learning</h4>
+<p>LINUX AND NVIM</p>
 <h4>Programing lenguages I know...</h4>
   <ul>
     <li>Python</li>
