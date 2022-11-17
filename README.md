@@ -15,7 +15,7 @@
 <h4>Learning</h4>
   <ul>
     <li>Linux</li>
-    <li>Nvim (como editor de texto)</li>
+    <li>Nvim (text editor)</li>
   </ul>
 <h4>Programing lenguages I know...</h4>
   <ul>
