@@ -37,12 +37,6 @@
   <ul>
     <li>Drawing, learning, reading, animes, videogames, programming.</li>
   </ul>
-<h3>Curse and Certificate</h3>
-<ul>
-  <li>FreeCodeCamp Responsive web Desing: <a href="https://www.freecodecamp.org/certification/DoctorZ/responsive-web-design">Here</a></li>
-  <li>Udemy python total: <a>COMING SOON</a></li>
-  <li>Fusion 360 desde cero: <a href="https://www.udemy.com/certificate/UC-3399f0ce-e560-4adc-b5da-963e31434658/">Here</a></li>
-</ul>
 <h5 align ="center">Where can you find me..</h5>
 <div align="center">
   <a href="https://twitter.com/DocZ_0525">
