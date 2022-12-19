@@ -40,11 +40,14 @@
 <h5 align ="center">Where can you find me..</h5>
 <div align="center">
   <a href="https://twitter.com/DocZ_0525">
-   <img width="20" src="https://user-images.githubusercontent.com/102930875/185516393-5fea1e0c-9324-4270-8b11-57da3e902c9f.png">
+   <img width="35" src="https://user-images.githubusercontent.com/102930875/185516393-5fea1e0c-9324-4270-8b11-57da3e902c9f.png">
   </a>
   <a href="https://www.instagram.com/julian_almario0525/">
-    <img width="20" src="https://user-images.githubusercontent.com/102930875/185516396-8c5054c5-c5ce-4250-aec6-f7b154fd5d57.png"> 
+    <img width="35" src="https://user-images.githubusercontent.com/102930875/185516396-8c5054c5-c5ce-4250-aec6-f7b154fd5d57.png"> 
   <a/>
+   <a href="https://www.linkedin.com/in/julian-almario-loaiza-70523b259/">
+     <img width="35" src="https://user-images.githubusercontent.com/102930875/208505556-bdf71f3f-3061-48b6-a61e-022b585b1eb2.svg">
+   <a/>
 </div>
 
 
