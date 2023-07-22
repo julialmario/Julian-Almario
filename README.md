@@ -1,13 +1,13 @@
 ![Banner](https://user-images.githubusercontent.com/102930875/186553775-b3ada263-d406-49b9-9cfb-8b015ab9ace2.gif)
 
 <h1 align="center">👋 Hi everyone 👋</h1>
-<p align="center">My name's Julian or as now I am nicknamed on the internet DocZ or just Doc, I'm a medical student at the Remington University Corporation in Colombia.</p>
+<p align="center">My name's Julian, I'm a medical student at the Remington University Corporation in Colombia.</p>
 <p align="center">⌨️</p>
 <hr>
 <div align="left">
 <h3>Because you study medicine and you're here?</h3>
 <ul>
-  <li>Because "Knowledge is power" and also because I like to learn all kinds of technologies, be it programming, game development, pixel art, robotics, machine learning, operating systems and data science.</li>
+  <li>Because, I like to learn all kinds of technologies, be it programming, game development, pixel art, robotics, machine learning, operating systems and data science.</li>
 </ul>
 
 <!--Profile Data-->
