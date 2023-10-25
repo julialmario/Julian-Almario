@@ -28,7 +28,6 @@
     <li>Networks, AI, Full Stack development and Robotics.</li>
     <li>C and C++</li>
   </ul>
-  <h4>I like....</h4>
 <h5 align ="center">Where can you find me..</h5>
 <div align="center">
   <a href="https://www.instagram.com/julian_almario0525/">
