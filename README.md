@@ -21,30 +21,22 @@
 <h4>Programing lenguages I know...</h4>
   <ul>
     <li>Python</li>
-    <li>Arduiomo</li>
-  </ul>
- <h4>Languages that interest me and want to learn....</h4>
-  <ul>
-    <li>C</li>
-    <li>C++</li>
-    <li>C#</li>
+    <li>Arduino</li>
   </ul>
  <h4>I am interested in learning...</h4>
   <ul>
     <li>Networks, AI, Full Stack development and Robotics.</li>
+    <li>C and C++</li>
   </ul>
   <h4>I like....</h4>
-  <ul>
-    <li>learning</li>
-  </ul>
 <h5 align ="center">Where can you find me..</h5>
 <div align="center">
   <a href="https://www.instagram.com/julian_almario0525/">
     <img width="35" src="https://user-images.githubusercontent.com/102930875/185516396-8c5054c5-c5ce-4250-aec6-f7b154fd5d57.png"> 
-  <a/>
+  </a>
    <a href="https://www.linkedin.com/in/julian-almario-loaiza-70523b259/">
      <img width="35" src="https://user-images.githubusercontent.com/102930875/208505556-bdf71f3f-3061-48b6-a61e-022b585b1eb2.svg">
-   <a/>
+    </a>
 </div>
 
 
