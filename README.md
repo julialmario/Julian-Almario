@@ -30,7 +30,7 @@
   </ul>
 <h5 align ="center">Where can you find me..</h5>
 <div align="center">
-  <a href="https://www.instagram.com/julian_almario0525/">
+  <a href="https://www.instagram.com/julianalmario_/">
     <img width="35" src="https://user-images.githubusercontent.com/102930875/185516396-8c5054c5-c5ce-4250-aec6-f7b154fd5d57.png"> 
   </a>
    <a href="https://www.linkedin.com/in/julian-almario-loaiza-70523b259/">
