@@ -11,23 +11,6 @@
 </ul>
 
 <!--Profile Data-->
-
-<h4>I like</h4>
-  <ul>
-    <li>Linux</li>
-    <li>Nvim</li>
-    <li>Doom Emacs</li>
-  </ul>
-<h4>Programing lenguages I know...</h4>
-  <ul>
-    <li>Python</li>
-    <li>Arduino</li>
-  </ul>
- <h4>I am interested in learning...</h4>
-  <ul>
-    <li>Networks, AI, Full Stack development and Robotics.</li>
-    <li>C and C++</li>
-  </ul>
 <h5 align ="center">Where can you find me..</h5>
 <div align="center">
   <a href="https://www.instagram.com/julianalmario_/">
