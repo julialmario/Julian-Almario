@@ -5,11 +5,6 @@
 <p align="center">⌨️</p>
 <hr>
 <div align="left">
-<h3>Because you study medicine and you're here?</h3>
-<ul>
-  <li>Because, I like to learn all kinds of technologies, be it programming, game development, pixel art, robotics, machine learning, operating systems and data science.</li>
-</ul>
-
 <!--Profile Data-->
 <h5 align ="center">Where can you find me..</h5>
 <div align="center">
