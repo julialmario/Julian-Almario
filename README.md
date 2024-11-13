@@ -4,7 +4,7 @@
 <hr>
 <div align="left">
 <div align="center">
-   <a href="https://github.com/DoctorZ-0525">
+   <a href="https://github.com/Julian-Almario">
     <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julian-Almario&layout=compact&theme=chartreuse-dark" />
   </a>
 </div>
